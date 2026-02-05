@@ -1,4 +1,5 @@
 # Mycelia DNA Learner
+<img width="2752" height="1536" alt="info" src="https://github.com/user-attachments/assets/2b6ebedf-e32b-451e-b8bb-c592bfba9d7a" />
 
 Ein lernfaehiges Python-Programm fuer Bild- und Audioverarbeitung, inspiriert von drei DNA-Quellen:
 
